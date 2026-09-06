@@ -179,3 +179,11 @@
    3. `debugging-notes/`
    4. `experiments/`
    5. `case-studies/`
+
+---
+### Example
+binder/
+├── binder-overview.md
+├── binder-ipc.md
+├── binder-driver.md
+└── binder-security.md
