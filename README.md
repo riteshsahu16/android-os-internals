@@ -183,7 +183,7 @@
 ---
 ### Example
 binder/
-├── binder-overview.md
-├── binder-ipc.md
-├── binder-driver.md
-└── binder-security.md
+- binder-overview.md
+- binder-ipc.md
+- binder-driver.md
+- binder-security.md
